@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Saumya</h1>
-<hr>
+<h1 align="center">Hi, I'm Zaid</h1>
 <h3 align="center">Coding, learning and sharing🫡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohd-ZaidCode&label=Profile%20views&color=0e75b6&style=flat" alt="Mohd Zaid" /> </p>
