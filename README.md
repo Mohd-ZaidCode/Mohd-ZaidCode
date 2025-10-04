@@ -11,5 +11,5 @@
 
 - 💬 Ask me about **Java, JavaScript, Problem Solving**
 
-- 📫 How to reach me *zaidiscoding@gmail.com**
+- 📫 How to reach me *zaidiscoding@gmail.com*
 
