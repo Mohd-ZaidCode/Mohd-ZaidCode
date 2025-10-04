@@ -1,16 +1,15 @@
-## Hi there 👋
+# <div style="text-align: center;">Hello there!</div>
+<h3 align="center">I share knowledge through my code, articles, posts and talks💙️.</h3>
 
-<!--
-**Mohd-ZaidCode/Mohd-ZaidCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohd-ZaidCode&label=Profile%20views&color=0e75b6&style=flat" alt="Mohd Zaid" /> </p>
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently Studying at [VIT](https://vitbhopal.ac.in/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m exploring  **Docker, kubernetese**
+
+- 📝 I write articles on [Medium](https://medium.com/@zaidiswriting)
+
+- 💬 Ask me about **Java, JavaScript, Problem Solving**
+
+- 📫 How to reach me *zaidiscoding@gmail.com**
+
